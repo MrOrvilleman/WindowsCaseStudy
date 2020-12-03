@@ -1,42 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb76e1b0-f0f6-45e0-9c20-f704e5f12e25" name="Default Changelist" comment="" />
+    <list default="true" id="2ee66740-66c9-4bd0-af1a-c7f014006fd2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1l9UYKH1jQ5yeAVzK48zcBwEahi" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V2o5VCFKjGBz0Rqife1s1Bab71" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2019-2020/Java/Projects/2 Klassen deel 1 startmappen/oef-toverspreuk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3 Klassen deel 2 startmappen/voorbeeld-fietsen-les3/voorbeeld-fietsen" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunManager" selected="JUnit.OefToverspreukApplicationTests">
+    <configuration name="OefToverspreukApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oef-toverspreuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fact.it.oeftoverspreuk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fact.it.oeftoverspreuk" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.oeftoverspreuk.OefToverspreukApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OefToverspreukApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oef-toverspreuk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fact.it.oeftoverspreuk.OefToverspreukApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OefToverspreukApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb76e1b0-f0f6-45e0-9c20-f704e5f12e25" name="Default Changelist" comment="" />
-      <created>1607008847575</created>
+      <changelist id="2ee66740-66c9-4bd0-af1a-c7f014006fd2" name="Default Changelist" comment="" />
+      <created>1576460367972</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607008847575</updated>
-      <workItem from="1607008848814" duration="31000" />
+      <updated>1576460367972</updated>
+      <workItem from="1576460370666" duration="95000" />
+      <workItem from="1581663795007" duration="486000" />
+      <workItem from="1581664451211" duration="18000" />
+      <workItem from="1581947755227" duration="411000" />
+      <workItem from="1581948286047" duration="1786000" />
+      <workItem from="1582544907257" duration="631000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607008877857">
+    <state x="361" y="79" key="#Project_Structure" timestamp="1581663863851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607008877857" />
+    <state x="361" y="79" key="#Project_Structure/0.0.1536.824/-1920.-81.1920.1040@0.0.1536.824" timestamp="1581663863851" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1581948345479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581948345479" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582546522447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582546522447" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582544914862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582544914862" />
   </component>
 </project>
