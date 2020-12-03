@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ee66740-66c9-4bd0-af1a-c7f014006fd2" name="Default Changelist" comment="" />
+    <list default="true" id="8bb734a5-2910-467d-85cd-17e04605a3c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,111 +13,114 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="Thymeleaf HTML File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Klaas\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1V2o5VCFKjGBz0Rqife1s1Bab71" />
+  <component name="ProjectId" id="1V2v9YfewToIL7c3F8nIugzh4av" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../3 Klassen deel 2 startmappen/voorbeeld-fietsen-les3/voorbeeld-fietsen" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.OefToverspreukApplicationTests">
-    <configuration name="OefToverspreukApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oef-toverspreuk" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java 1ITF 19-20\Les 3 Klassen deel 2\3 Klassen deel 2 startmappen\oef-tankbeurt\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OefTankbeurtApplication">
+    <configuration name="OefTankbeurtApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oef-tankbeurt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fact.it.oeftoverspreuk.*" />
+          <option name="PATTERN" value="fact.it.oeftankbeurt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fact.it.oeftoverspreuk" />
-      <option name="MAIN_CLASS_NAME" value="fact.it.oeftoverspreuk.OefToverspreukApplicationTests" />
+      <option name="PACKAGE_NAME" value="fact.it.oeftankbeurt" />
+      <option name="MAIN_CLASS_NAME" value="fact.it.oeftankbeurt.OefTankbeurtApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OefToverspreukApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="oef-toverspreuk" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="fact.it.oeftoverspreuk.OefToverspreukApplication" />
+    <configuration name="OefTankbeurtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oef-tankbeurt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fact.it.oeftankbeurt.OefTankbeurtApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OefToverspreukApplicationTests" />
+        <item itemvalue="JUnit.OefTankbeurtApplicationTests" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ee66740-66c9-4bd0-af1a-c7f014006fd2" name="Default Changelist" comment="" />
-      <created>1576460367972</created>
+      <changelist id="8bb734a5-2910-467d-85cd-17e04605a3c5" name="Default Changelist" comment="" />
+      <created>1576463853543</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576460367972</updated>
-      <workItem from="1576460370666" duration="95000" />
-      <workItem from="1581663795007" duration="486000" />
-      <workItem from="1581664451211" duration="18000" />
-      <workItem from="1581947755227" duration="411000" />
-      <workItem from="1581948286047" duration="1786000" />
-      <workItem from="1582544907257" duration="631000" />
+      <updated>1576463853543</updated>
+      <workItem from="1576463856218" duration="834000" />
+      <workItem from="1576508875519" duration="1879000" />
+      <workItem from="1576525753352" duration="197000" />
+      <workItem from="1576526096021" duration="36000" />
+      <workItem from="1576526149675" duration="23000" />
+      <workItem from="1578429452449" duration="33000" />
+      <workItem from="1580292712339" duration="155000" />
+      <workItem from="1580292882148" duration="86000" />
+      <workItem from="1581331452859" duration="592000" />
+      <workItem from="1582549906975" duration="749000" />
+      <workItem from="1582551804537" duration="63000" />
+      <workItem from="1582552158089" duration="343000" />
+      <workItem from="1588190457415" duration="599000" />
+      <workItem from="1591348789534" duration="449000" />
+      <workItem from="1607013250562" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="79" key="#Project_Structure" timestamp="1581663863851">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1480" y="94" key="SettingsEditor" timestamp="1607013265863">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="79" key="#Project_Structure/0.0.1536.824/-1920.-81.1920.1040@0.0.1536.824" timestamp="1581663863851" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1581948345479">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581948345479" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582546522447">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582546522447" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582544914862">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582544914862" />
+    <state x="-1480" y="94" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607013265863" />
   </component>
 </project>

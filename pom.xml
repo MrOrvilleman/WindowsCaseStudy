@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>fact.it</groupId>
-    <artifactId>oef-toverspreuk</artifactId>
+    <artifactId>oef-tankbeurt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>oef-toverspreuk</name>
+    <name>oef-tankbeurt</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
